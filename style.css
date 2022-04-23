@@ -18,6 +18,14 @@ body {
     user-select: none;
 }
 
+#cent {
+    margin-left: 50px;
+}
+
+#cent1 {
+    margin-left: 70px;
+}
+
 .frozen {
     display: none;
 }
